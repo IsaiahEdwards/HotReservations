@@ -1,0 +1,16 @@
+.display-4 {
+    text-align: center;
+    font-weight: bold;
+}
+#bb {
+    text-align: center;
+    font-style: italic;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.homebuttons{
+    padding-top: 10px;
+    position: relative;
+    left: 35%;
+}
